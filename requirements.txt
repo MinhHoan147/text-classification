@@ -1,0 +1,5 @@
+scikit-learn
+pyvi
+ftfy
+flask
+numpy
