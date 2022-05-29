@@ -32,3 +32,6 @@ Trong đó:
   Các công thức trên là toàn bộ tư tưởng chung của thuật toán Naive Bayes, khác nhau ở chỉ ở chỗ tìm các phân phối để tính toán xác suất trên. Thực tế và đặc biệt là đối với dữ liệu dạng text thì các thành phần của x luôn luôn liên quan đến nhau để tạo ra ngữ cảnh. Nhưng kết quả mà thuật toán naive bayes mang lại rất khả quan (điều này cũng giải thích cho chữ naive - ngây thơ).
   Phân phối xác suất thường dùng cho các bài toán đa lớp là multinomial naive bayes
 
+# Collecting Data
+
+	Sử dụng scrappy crawl dữ liệu từ trang báo điện tử vnexpress.com
